@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on: **software engineering**
 - 📄 Know about my experiences: **software engineer @fitia**
-- 👯 I’m looking to collaborate on: **theory projects**
+- 👯 I’m looking to collaborate on: **computing linguistics projects**
 - 🌱 I want to become a pro at: **leetcode**
 - 🤝 What I enjoy: **thinking about the most efficient solution**
 - ❌ What I don't enjoy: **learning new technologies instead of new approaches**
